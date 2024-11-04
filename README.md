@@ -1,1 +1,22 @@
+
 # face-maze
+
+objective:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
